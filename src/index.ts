@@ -4,6 +4,7 @@ import { CheckSum, CheckSumWithHashSet } from './array/CheckSum'
 import { ArrayOfProducts, ArrayOfProductsOption2 } from './array/ArrayOfProducts';
 import { FindMinArray } from './array/FindMinInArray';
 import { FindUniqueIntegers } from './array/FindUniqueInteger'
+import { findSecondMaximum } from './array/FindSecondMaximum/FindSecondMaximum';
 // var checkRemoveEv = new CheckRemoveEven();
 // console.log(checkRemoveEv.removeEve([1, 2, 4, 5, 10, 6, 3]));
 // console.log(mergeTwoSortedArray([1, 3, 4, 5], [2, 6, 7, 8]));
@@ -13,4 +14,5 @@ import { FindUniqueIntegers } from './array/FindUniqueInteger'
 // console.log();
 // ArrayOfProductsOption2([1,2,3,4]);
 // console.log(FindMinArray([10,2,13,4]));
-console.log(FindUniqueIntegers([10,2,13,4,13,10,2]));
+// console.log(FindUniqueIntegers([10,2,13,4,13,10,2]));
+console.log(findSecondMaximum([40,20,10,30]))
