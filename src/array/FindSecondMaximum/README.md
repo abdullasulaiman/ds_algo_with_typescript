@@ -1,12 +1,12 @@
-# Challenge 7: Find Second Maximum Value in an Array
-## Given an array of size n, can you find the second maximum element in the array? Implement your solution in Java and see if your output matches the correct output!
+# Inteview Questions : Find Second Maximum Value in an Array
+## Given an array of size n, can you find the second maximum element in the array? Implement your solution in Javascript and see if your output matches the correct output!
 
 ### Problem Statement
 In this problem, you have to implement the int findSecondMaximum(arr) function which will traverse the whole array and return the second largest element present in the array.
 
 ### Function Prototype
 ```
-const findSecondMaximum(Array<Number>):Number
+const findSecondMaximum(Array<number>):number
 ```
 
 ### Output
