@@ -14,10 +14,10 @@ Array rotated by one element from right to left
 
 ### Sample Input
 ```
-const arr = [50,20,30,40,10]
+const arr = [1, 2, 3, 4, 5, 6, 7]
 ```
 
 ### Sample Output
 ```
-arr = [10,20,30,40,50]
+arr = [ 2, 3, 4, 5, 6, 7, 1 ]
 ```
