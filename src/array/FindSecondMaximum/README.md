@@ -19,5 +19,5 @@ const arr = [40,20,10,30]
 
 ### Sample Output
 ```
-6
+30
 ```
